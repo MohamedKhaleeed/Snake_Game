@@ -1,2 +1,4 @@
 # Snake_Game
-Snake game using C++
+snake game using data structure
+doubly linked list is mainly used in the code
+
